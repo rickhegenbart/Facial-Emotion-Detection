@@ -1,5 +1,11 @@
 # Facial-Emotion-Detection
 
+> **MIT Professional Certificate in AI & Data Science**
+>
+> This project was completed as part of the MIT Professional Certificate in AI & Data Science program.
+>
+> [View the complete four-project certificate portfolio](https://github.com/users/rickhegenbart/projects/2)
+> 
 Project Overview
 This project uses deep learning and computer vision to classify facial emotions from image data. The goal was to build, train, and evaluate models that can identify facial expressions across four emotion categories:
 Happy
